@@ -2,3 +2,29 @@ body {
     font-family: sans-serif;
 }
 
+h1{
+    color: blue;
+}
+
+ul{
+     text-align: right;
+}
+
+li{
+    text-align: right;
+}
+
+nav{
+    position: absolute;
+}
+
+.socia{
+    position: absolute;
+    right: 0px;
+}
+
+.social{
+   position: absolute;
+   right: 310px;
+}
+
